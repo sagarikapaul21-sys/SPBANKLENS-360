@@ -80,7 +80,13 @@ Application
 Repository
 (https://github.com/sagarikapaul21-sys/SPBANKLENS-360)
 Disclaimer
-SPBANKLENS 360 is a conceptual prototype developed for learning, innovation, and portfolio purposes. It is not affiliated with or deployed by any financial institution. The prototype uses AI-assisted development tools, while the product vision, banking workflows, business rules, and operational design were conceptualized and refined by Sagarika Paul based on practical banking operations experience.
+Disclaimer
+
+SPBANKLENS 360 is a conceptual prototype developed for learning, innovation, and portfolio purposes. It is not affiliated with, endorsed by, or deployed by any bank or financial institution.
+
+All customer records, branch information, loan accounts, reports, dashboards, and datasets used in this repository are fictional and AI-generated for demonstration purposes only. They do not represent any real individuals, customers, accounts, branches, or banking operations.
+
+The prototype was developed using AI-assisted development tools (Lovable). The product concept, business requirements, workflows, operational design, and documentation were conceptualized and refined by Sagarika Paul based on practical banking operations experience.
 <img width="844" height="533" alt="image" src="https://github.com/user-attachments/assets/9ab9de21-f4a3-45c5-81df-5a9ab7980e09" />
 <img width="844" height="1186" alt="image" src="https://github.com/user-attachments/assets/a042707b-8013-41e4-948e-346af712e778" />
 <img width="844" height="1186" alt="image" src="https://github.com/user-attachments/assets/797b5420-3d1d-4fe6-aa29-8a3ad169c99a" />
