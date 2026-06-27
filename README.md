@@ -87,4 +87,10 @@ Analytics and reporting
 Configurable governance dashboards
 Disclaimer
 SPBANKLENS 360 is a conceptual prototype developed for learning, innovation, and portfolio purposes. It is not affiliated with or deployed by any financial institution. The prototype uses AI-assisted development tools, while the product vision, banking workflows, business rules, and operational design were conceptualized and refined by Sagarika Paul based on practical banking operations experience.
+<img width="844" height="533" alt="image" src="https://github.com/user-attachments/assets/9ab9de21-f4a3-45c5-81df-5a9ab7980e09" />
+<img width="844" height="1186" alt="image" src="https://github.com/user-attachments/assets/a042707b-8013-41e4-948e-346af712e778" />
+<img width="844" height="1186" alt="image" src="https://github.com/user-attachments/assets/797b5420-3d1d-4fe6-aa29-8a3ad169c99a" />
+<img width="1045" height="666" alt="image" src="https://github.com/user-attachments/assets/b5cb5513-8845-423d-9708-9c76ff4c6059" />
+<img width="975" height="452" alt="image" src="https://github.com/user-attachments/assets/580d4a0e-4bfe-48cf-b8fa-3b0508ce02b3" />
+<img width="975" height="447" alt="image" src="https://github.com/user-attachments/assets/ba30a06d-63d2-4285-b4df-dd2d6d5e56da" />
 
