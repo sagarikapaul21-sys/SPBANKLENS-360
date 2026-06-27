@@ -79,12 +79,6 @@ Application
 (https://spbank-sight-connect-70.lovable.app/)
 Repository
 (https://github.com/sagarikapaul21-sys/SPBANKLENS-360)
-Future Enhancements
-Secure API integration with Core Banking Systems
-Enterprise authentication
-Workflow orchestration
-Analytics and reporting
-Configurable governance dashboards
 Disclaimer
 SPBANKLENS 360 is a conceptual prototype developed for learning, innovation, and portfolio purposes. It is not affiliated with or deployed by any financial institution. The prototype uses AI-assisted development tools, while the product vision, banking workflows, business rules, and operational design were conceptualized and refined by Sagarika Paul based on practical banking operations experience.
 <img width="844" height="533" alt="image" src="https://github.com/user-attachments/assets/9ab9de21-f4a3-45c5-81df-5a9ab7980e09" />
